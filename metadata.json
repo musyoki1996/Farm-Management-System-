@@ -1,0 +1,6 @@
+{
+  "name": "AGRICORE – Enterprise Farm Management Information System",
+  "description": "Enterprise-grade digital operating system for agriculture across Kenya and East Africa. Comprehensive management of crops, livestock, inventory, financials in KES, workforce, equipment, water, and AI agronomy intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
